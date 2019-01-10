@@ -9,3 +9,4 @@ to run the app:
 NOTE: You NEED to connect your phone to the same wifi network your computer is running on when using expo. 
 
 Thanks!
+
